@@ -1,1 +1,1 @@
-# Russian-License-Plate-Blurring
+# Russian license plate blurring using haarcascades
